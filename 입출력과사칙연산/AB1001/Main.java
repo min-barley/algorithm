@@ -1,4 +1,4 @@
-package AB1001;
+package 입출력과사칙연산.AB1001;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package AXB10998;
+package 입출력과사칙연산.AXB10998;
 
 import java.util.Scanner;
 
